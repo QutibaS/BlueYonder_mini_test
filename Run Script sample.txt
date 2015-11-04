@@ -1,0 +1,7 @@
+For running this fuctionality:
+
+Command: main.py arg1 arg2
+
+where:
+- arg1: Local Directory for storing the downloaded images
+- arg2: URLs' plain text file
