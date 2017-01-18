@@ -1,5 +1,4 @@
 
-This bit code is requested By Blue Yonder GmbH.
 
 Input:
 1-Plain text file that contains URLs, one per line.
